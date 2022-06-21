@@ -1,0 +1,21 @@
+.Navbar_Container{
+    display:table;
+    table-layout:fixed;
+    position: fixed;
+    background-color: #000;
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid #404040;
+    z-index: 1;
+    text-align:center;
+}
+
+.Navbar_item{
+    color: #fff;
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.Navbar_a{
+    margin: 60px;
+}

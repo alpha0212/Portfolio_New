@@ -1,0 +1,29 @@
+.Board_Container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 10px;
+    
+}
+
+.Board_Title{
+    background-color: rgb(249, 249, 249);
+    margin: 5px;
+    border: 1px solid rgb(64, 64, 64);
+    width: 30vw;
+    height: 3vh;
+    font-size: 15px;
+    text-align: center;
+    outline: none;
+}
+
+.Board_Content{
+    background-color: rgb(249, 249, 249);
+    margin: 5px;
+    border: 1px solid rgb(64, 64, 64);
+    width: 70vw;
+    height: 35vh;
+    font-size: 15px;
+    text-align: center;
+    outline: none;
+}
